@@ -2,10 +2,10 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>[About the Project](#about)</li>
-    <li>Built With</li>
-    <li>Future Features</li>
-    <li>Contact</li>
+    <li><a href="#about">About the Project</a></li>
+    <li><a href="#builtWith">Built With</a></li>
+    <li><a href="futureFeatures">Future Features</a></li>
+    <li><a href="contact">Contact</a></li>
   </ol>
 </details>
 
@@ -20,7 +20,7 @@
   <li>CSS3</li>
 </ul>
 
-<h2 id="future">Future Features</h2>
+<h2 id="futureFeatures">Future Features</h2>
 <p>In the future, I am considering creating the following features:</p>
 <ul>
   <li>Night Mode - I want to allow the user to be able to toggle night and day mode, making it more readable.</li>
